@@ -12,7 +12,7 @@
 
 Пример:
 Вход
-ОДНАЖДЫ{ADVB}
+ОДНАЖДЫ{ADVB}\\
 В{NOUN,anim,ms-f,Sgtm,Fixd,Abbr,Init,nomn}
 СТУДЁНЫЙ{ADJF,Qual,femn,sing,accs}
 ЗИМНИЙ{ADJF,femn,accs}
