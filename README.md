@@ -12,49 +12,10 @@
 
 Пример:
 Вход
-ОДНАЖДЫ{ADVB}\\
-В{NOUN,anim,ms-f,Sgtm,Fixd,Abbr,Init,nomn}
-СТУДЁНЫЙ{ADJF,Qual,femn,sing,accs}
-ЗИМНИЙ{ADJF,femn,accs}
-ПОРА{sing,accs}
-Я{NOUN,anim,ms-f,Sgtm,Fixd,Abbr,Patr,Init,sing,nomn}
-ИЗА{NOUN,anim,plur,gent}
-ЛЕСА{NOUN,inan,femn,sing,accs}
-ВЫШЕЛ{VERB,perf,intr,sing,indc}
-ЕСТЬ{VERB,impf,intr,masc,sing,past,indc}
-СИЛЬНЫЙ{Qual,masc,nomn}
-МОРОЗ{anim,femn,Sgtm,Surn,sing,nomn}
-ГЛЯЖУ{VERB,impf,tran,sing,pres,indc}
-ПОДНИМАЮСЬ{VERB,impf,intr,3per,pres,indc}
-МЕДЛЕН{Qual,neut}
-В{NOUN,ms-f,Fixd,Abbr,Patr,Init,sing,nomn}
-ГОРА{NOUN,inan,femn,sing,accs}
-ЛОШАДКА{NOUN,anim,femn,sing}
-ВЕЗУЩИЙ{impf,pres,actv,femn,sing,nomn}
-ХВОРОСТ{NOUN,gen2}
-ВОЗ{NOUN,femn,Fixd,Abbr,Orgn,sing,nomn}
+![image](https://user-images.githubusercontent.com/75157990/176729830-616cb17a-c640-4512-8a22-f266a9038e5a.png)
 Выход
-ОДНАЖДЫ
-В
-СТУДЁНУЮ
-ЗИМНЮЮ
-ПОРУ
-Я
-ИЗ
-ЛЕСУ
-ВЫШЕЛ
-БЫЛ
-СИЛЬНЫЙ
-МОРОЗ
-ГЛЯЖУ
-ПОДНИМАЕТСЯ
-МЕДЛЕННО
-В
-ГОРУ
-ЛОШАДКА
-ВЕЗУЩАЯ
-ХВОРОСТУ
-ВОЗ
+![image](https://user-images.githubusercontent.com/75157990/176729967-3dc5acbb-f121-4bd3-959f-203417514c72.png)
+
 Чтобы не придумывать все правила самостоятельно, мы предлагаем воспользоваться наработками проекта Открытый корпус (opencorpora) который предоставляет словарь в машиночитаемом виде. Словарь встроен в проверяющую систему и хранится уже у нас, и уже загружен в память.
 
 Описание граммем можно подсмотреть в xml-выгрузке словаря или в сокращенной форме тут.
